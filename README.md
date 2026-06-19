@@ -25,8 +25,8 @@ M.Sc. Data Analytics student @ **Berlin School of Business and Innovation** · B
 
 👨‍💻 M.Sc. Data Analytics student at BSBI Berlin, graduating Dec 2026  
 🔬 1.5 years as Research Assistant at Fraunhofer ISE  
-🎯 Focused on Data Engineering, Machine Learning & Big Data  
-🇩🇪 Open to data & software roles in Germany
+🎯 Focused on  Machine Learning & Big Data  
+🇩🇪 Open to data roles in Germany
 
 ---
 

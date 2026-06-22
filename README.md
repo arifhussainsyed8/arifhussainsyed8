@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 👋 Hey there! I'm Arif — a data guy who turns messy datasets into clear decisions.
+### 👋 Hey there! I'm Arif [ a data guy who turns messy datasets into clear decisions.]
 
 M.Sc. Data Analytics student @ **Berlin School of Business and Innovation** · Based in 🇩🇪 Germany  
 1.5 years of hands-on research experience at **Fraunhofer ISE** · B1 German

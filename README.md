@@ -109,21 +109,6 @@ M.Sc. Data Analytics student @ **Berlin School of Business and Innovation** · B
 - 🥇 **Best Mathematical Modelling**, Hindustan Mathematics Club *(Feb 2015)*  
   Study on gravity drag in rockets — gravitational vs. atmospheric drag trade-offs in trajectory optimization.
 
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-📧 **arifhussainsyed8@gmail.com** · 📞 **+49 1575 8064674** · 📍 **Dessau-Roßlau, Germany**
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifhussainsyed)
-
-*Open to research assistant roles, data engineering internships, and applied analytics positions in Germany.*
-
-</div>
-
----
 
 <div align="center">
 
